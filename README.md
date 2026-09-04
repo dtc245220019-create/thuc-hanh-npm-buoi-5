@@ -24,3 +24,4 @@ Mô hình Reverse Proxy sử dụng Nginx Proxy Manager (NPM) điều hướng t
    \`\`\`text
    127.0.0.1 static.local wordpress.local
    \`\`\`
+# thuc-hanh-npm-buoi-5
